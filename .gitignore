@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/
+videos/
+logs/*
+!logs/shoot_*_jev.jsonl
+.venv/

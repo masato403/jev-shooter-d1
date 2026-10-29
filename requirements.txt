@@ -1,0 +1,8 @@
+pygame
+torch
+transformers
+torchao
+typesafe-sdk
+opencv-python
+numpy
+imageio-ffmpeg
