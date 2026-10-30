@@ -61,6 +61,10 @@ python shooter.py --replay last            # 最新の Jev の記録を再生（
 - Windows 11、RTX 5050 Laptop GPU（8GB）
 - Python、pygame、PyTorch、transformers、torchao、typesafe-sdk、OpenCV（カメラ版のみ）、imageio-ffmpeg（録画のみ）
 
+## ライセンス
+
+このリポジトリのコードは MIT License です（`LICENSE`）。d1-3B のモデルは含まず、LFM Open License v1.0 に従います。`logs/` の Jev の記録は TypeSafe の Jev API の出力です（AI生成）。
+
 ## 付記
 
 株式会社スリーアップ・テクノロジー様でのインターンシップにおける実習として取り組んだ内容です。
