@@ -70,4 +70,4 @@ python shooter.py --replay last            # 最新の Jev の記録を再生（
 ## 付記
 
 株式会社スリーアップ・テクノロジー様でのインターンシップにおける実習として取り組んだ内容です。
-解説記事：note（公開後にリンクを追加します）
+解説記事（note）：https://note.com/magic_cedum2707/n/n60f0e335ad62
